@@ -1,0 +1,12 @@
+{
+	"name": "controls",
+	"description": "Hello World in Items Tile",
+	"version": "0.0.1",
+	"vendor": "Nofar",
+	"multiple-version": "false",
+	"ui-ext": [
+		{
+			"folder": "controls"
+		}
+	]
+}
